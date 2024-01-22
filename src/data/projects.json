@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Crypto Dashboard",
+      "imageSrc": "projects/cryptocurrency dashboard.jpg",
+      "description": "With Bootstrap 5's elegance and Cryptocurrency API tools, Harsh's vision blends artistry and technology into a crypto masterpiece.",
+      "skills": ["ReactJS", "BootStrapping", "API"],
+      "demo": "https://harshranjan-07122004-cryptodashboard.netlify.app/",
+      "source": "https://github.com/harshra215/Cryptocurrency-Dashboard"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/weatherapp.jpg",
+      "description": "Harsh's React.js weather app, with API integration and CSS finesse, offers real-time information, ensuring user-friendly weather updates.",
+      "skills": ["ReactJS", "API", "CSS","JavaScript"],
+      "demo": "https://harshranjan-07122004-weatherapp.netlify.app/",
+      "source": "https://github.com/harshra215/WeatherApp"
+    },
+    {
+      "title": "Netflix Clone",
+      "imageSrc": "projects/netflix.jpg",
+      "description": "Harsh's Netflix clone, powered by HTML5, CSS3, and JavaScript, mirrors sleek Netflix functionality, ensuring immersive streaming across devices.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/harshra215/Netflix-Clone"
+    }
+  ]
